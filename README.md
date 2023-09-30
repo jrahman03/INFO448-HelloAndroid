@@ -1,3 +1,6 @@
+# Extra Credit Response:
+After exploring all the various developer options, I found the pointer location setting to be something we could use later in the quarter. This is because the option itself provides a visual cue in real time on all touch inputs. Meaning that we could use this option when debugging to ensure things like touch targets and other UI interactions are as precise as possible, preventing any cases of "ghost buttons." 
+
 # UW Homework: Hello Android
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
 
